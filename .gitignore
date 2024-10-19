@@ -1,6 +1,5 @@
-
-.build/test.exp
-.build/test.lib
+.build/*
+.build/*
 *.obj
 test.exe
 test.pdb
